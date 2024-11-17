@@ -14,11 +14,11 @@
 
 ## Estrutura do Projeto   
 * **Estrutura de diretórios:**    
-	* O projeto tem vários diretórios, sendo eles    
+	* O projeto tem vários diretórios, sendo eles:    
 		| site-CursoEmVideo      
 		|----- static ---> contém a parte estática do site    
-		|       	|----- font ---> contém a fonte interna do site    
-		|       	|----- images ---> contém as imagens do site     
+		|      |----- font ---> contém a fonte interna do site    
+		|      |----- images ---> contém as imagens do site     
 		|-----styles     
 		|	|----- style.css ---> contém a estilização do site      
 		|-----index.html ---> contém a estrutura do site     
